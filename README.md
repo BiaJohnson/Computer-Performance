@@ -10,6 +10,7 @@ This Python program provides an interface to monitor your system's resource usag
   - Total amount of RAM
   - RAM usage (percentage)
   - Available RAM
+  - 
 - **Internet Speed Test:**
   - Download speed
   - Upload speed
@@ -23,10 +24,27 @@ The following Python libraries need to be installed:
 pip install psutil
 pip install speedtest-cli
 pip install pillow
+```
 
-### Installation
+### How to Run the Program
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/BiaJohnson/web-based-data-analytics-visualization
-   cd property-finance-dashboard
+   
+   ``bash
+    git clone https://github.com/BiaJohnson/web-based-data-analytics-visualization
+    cd property-finance-dashboard
+  ``
+  
+2. Navigate to the project directory:
+   
+   `bash
+    cd your-repo-name
+   `
+
+3. Install the libraries mentioned under Requirements:
+
+4. Run the program:
+   
+   `bash
+    python cpustatus.py
+   `
