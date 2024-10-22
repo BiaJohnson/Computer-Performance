@@ -31,8 +31,8 @@ pip install pillow
 1. Clone the repository:
    
    ``bash
-    git clone https://github.com/BiaJohnson/web-based-data-analytics-visualization
-    cd property-finance-dashboard
+    git clone https://github.com/BiaJohnson/Computer-Performance
+    cd Computer-Performance
   ``
   
 2. Navigate to the project directory:
